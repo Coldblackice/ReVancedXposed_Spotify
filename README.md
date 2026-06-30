@@ -7,9 +7,9 @@
   <br>
 </div>
 
-**ReVanced LSPosed module by ChsBuffer, just for Spotify.**  
+**ReVanced LSPosed module for Spotify (ChsBuffer).**  
 >[!IMPORTANT]  
-> This is not an official ReVanced project, do not ask the ReVanced developers for help.
+> This is not an official ReVanced project -- do not ask ReVanced developers for help.
 
 ## Downloads
 - **Release build**: [Download](https://github.com/chsbuffer/ReVancedXposed_Spotify/releases/latest)
